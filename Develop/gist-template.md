@@ -5,7 +5,8 @@ Welome to regex, otherwise known as regular expression. This defines search patt
 ## Summary
 
 If you want to seacrh for a specific word of phrase, the regex will simply do the work for you. It is a useful tool that can help people with searching for the right words.
-<script src="https://gist.github.com/Hublinix/3e87720bbf036dd4f2a63499204313cd"></script>'
+
+https://gist.github.com/Hublinix/3e87720bbf036dd4f2a63499204313cd
 
 
 ## Table of Contents
